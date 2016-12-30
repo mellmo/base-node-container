@@ -1,0 +1,36 @@
+{
+  "name": "base-node-container",
+  "version": "0.0.1",
+  "description": "Basic node express/socketIO app used for a LoadTest/scaling exercise ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mellmo/base-node-container.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "container",
+    "docker",
+    "socket.io"
+  ],
+  "author": "Mohamed Mellouki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mellmo/base-node-container/issues"
+  },
+  "homepage": "https://github.com/mellmo/base-node-container#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.7.2"
+  },
+  "devDependencies": {
+    "eslint": "^3.12.2",
+    "eslint-config-standard": "^6.2.1",
+    "eslint-plugin-promise": "^3.4.0",
+    "eslint-plugin-standard": "^2.0.1"
+  }
+}
