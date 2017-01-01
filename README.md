@@ -5,5 +5,6 @@ Simple chat server, used as a target for a LoadTesting/Scalling exercice.
 
 Not meant for production.
 
-Jenkins build after a successfull PR:
+Jenkins build after a successfull PR: [WIP]
+
 
